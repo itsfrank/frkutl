@@ -1,0 +1,12 @@
+[package]
+name = "itsfrank/frkutl"
+version = "0.0.1"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+private = true
+
+[dependencies]
+
+[dev-dependencies]
+frktest = "itsfrank/frktest@0.0.1"
